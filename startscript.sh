@@ -28,8 +28,11 @@ restart)
 	$0 stop
 	$0 start
 	;;
+info)
+	echo "Your sinusbot is installed in \033[32m$loc\033[0m, and the screen name is \033[32m$screen_name\033[0m"
+	;;
 *)
-	echo "\033[31mUsage: './$name (start|stop|restart)'\033[0m"
+	echo "\033[31mUsage: './$name (start|stop|restart|info)'\033[0m"
 	;;
 esac
 exit 0
