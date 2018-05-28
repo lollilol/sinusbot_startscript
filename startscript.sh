@@ -7,7 +7,7 @@ loc=/opt/sinusbot/
 #the name of the screen
 screen_name=sinusbot
 
-#no major changes beyond this line
+#no necessary changes beyond this line
 
 #binary file, (sould be "sinusbot")
 binary=sinusbot
