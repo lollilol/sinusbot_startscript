@@ -16,7 +16,7 @@ Features:
 
 ## Usage
 ```
-./startscript.sh (start|stop|restart)
+./startscript.sh (start|stop|restart|info)
 ```
 
 ## How to install:
