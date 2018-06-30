@@ -9,7 +9,7 @@ screen_name=sinusbot
 
 #no necessary changes beyond this line
 
-#binary file, (sould be "sinusbot")
+#binary file, (should be "sinusbot")
 binary=sinusbot
 
 name=`basename "$0"`
